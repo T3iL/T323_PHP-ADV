@@ -1,10 +1,25 @@
 # T23-PHP+ADV
 
 1. MySQL CRUD operations
+2. DELETE
+3. UPDATE
 
 ```
 ZADT32301.
-Stwórz ankietę
+Stwórz generator tekstu gry RPG (w oparciu o zadanie ZAD32110.)
+
+ZADT32302.
+Stwórz ankietę zadowolenia z produktu lub ankietę rekrutacyjną. Wyświetl podsumowanie. 
+
+ZADT32302.
+Stwórz quiz:
+- geograficzny
+- wiedzy o filmach
+- z datami historycznymi
+- wiedzy o grach komputerowych
+- z programowania w PHP
+
+i wygeneruj podsumowanie z punktacją po skńczeniu quizu
 ```
 
 ### --------Repositiories
