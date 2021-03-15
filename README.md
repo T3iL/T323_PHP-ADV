@@ -1,9 +1,6 @@
 # T23-PHP+ADV
 
-1. PHP recap
-2. OOP
-3. SECURITY
-4. DATE
+1. MySQL CRUD operations
 
 ```
 ZADT32301.
