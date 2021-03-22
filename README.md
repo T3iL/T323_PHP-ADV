@@ -106,7 +106,8 @@ echo "</pre>";
 
 ```
 ZADT32301.
-Stwórz generator tekstu gry RPG (w oparciu o zadanie ZAD32110.) Zadbaj o możliwość zapisu wygenerowanego tekstu do pliku i sciągnięcie go (download).
+Stwórz generator tekstu gry RPG (w oparciu o zadanie ZAD32110.) 
+Zadbaj o możliwość zapisu wygenerowanego tekstu do pliku i sciągnięcie go (download).
 
 ZADT32302.
 Stwórz ankietę zadowolenia z produktu lub ankietę rekrutacyjną. Wyświetl podsumowanie. 
