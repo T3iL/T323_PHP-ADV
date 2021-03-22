@@ -19,6 +19,7 @@ if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
 }
 
+// INSERT INTO DATABASE
 if(isset($_GET['username']) && !empty($_GET['username'])){
     $insertsql = 'INSERT INTO subscribers (id, username)
     VALUES (NULL, "'. $_GET['username'] . '")';
@@ -30,6 +31,7 @@ if(isset($_GET['username']) && !empty($_GET['username'])){
 
 }
 
+//DELETE FROM DATABASE
 if(isset($_GET['del']) && !empty($_GET['del'])){
     
     $delsql = "DELETE FROM subscribers WHERE id=" . $_GET["del"];
@@ -41,6 +43,7 @@ if(isset($_GET['del']) && !empty($_GET['del'])){
     }    
 }
 
+//UPDATE RECORD
 if(isset($_GET['update']) && !empty($_GET['update'])){
     
     $delsql = "UPDATE subscribers SET username='" . $_GET["newname"] . "' WHERE id=" . $_GET["update"];
@@ -56,8 +59,7 @@ $readsql = "SELECT * FROM subscribers";
 
 $result = mysqli_query($conn, $readsql);
 
-echo '<div class="container">';
-
+//PUT ON SCREEN
 if (mysqli_num_rows($result) > 0) {
   // output data of each row
   echo '<form><table>';
