@@ -106,20 +106,21 @@ echo "</pre>";
 
 ```
 ZADT32301.
-Stwórz generator tekstu gry RPG (w oparciu o zadanie ZAD32110.)
+Stwórz generator tekstu gry RPG (w oparciu o zadanie ZAD32110.) Zadbaj o możliwość zapisu wygenerowanego tekstu do pliku i sciągnięcie go (download).
 
 ZADT32302.
 Stwórz ankietę zadowolenia z produktu lub ankietę rekrutacyjną. Wyświetl podsumowanie. 
 
 ZADT32302.
-Stwórz quiz:
-- geograficzny
-- wiedzy o filmach
+Stwórz quiz wraz z edytorem pozwalającym na dodawanie pytań:
+- o tematyce geograficznej
+- z wiedzy o filmach
 - z datami historycznymi
 - wiedzy o grach komputerowych
 - z programowania w PHP
 
-i wygeneruj podsumowanie z punktacją po skńczeniu quizu
+Stwórz osobne strony dla generatora/edytora (admin) i dla samego quizu (dla użytkowników)
+Wygeneruj podsumowanie z punktacją po skńczeniu quizu
 ```
 
 ### --------Repositiories
