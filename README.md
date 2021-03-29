@@ -115,10 +115,12 @@ Stwórz ankietę zadowolenia z produktu lub ankietę rekrutacyjną. Wyświetl po
 ZADT32302.
 Stwórz quiz wraz z edytorem pozwalającym na dodawanie pytań:
 - o tematyce geograficznej
-- z wiedzy o filmach
+- z wiedzy o filmach [Włodek]
 - z datami historycznymi [Konrad] (20)
 - wiedzy o grach komputerowych [Mikołaj]
 - z programowania w PHP [Michał]
+- z wiedzy o piłce nożnej [Łukasz]
+- z wiedzy o serialach [Dawid] 
 
 Stwórz osobne strony dla generatora/edytora (admin) i dla samego quizu (dla użytkowników)
 Wygeneruj podsumowanie z punktacją po skńczeniu quizu
