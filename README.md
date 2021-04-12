@@ -115,6 +115,7 @@ Stwórz ankietę zadowolenia z produktu lub ankietę rekrutacyjną. Wyświetl po
 ZADT32302.
 Stwórz quiz wraz z edytorem pozwalającym na dodawanie pytań:
 - o tematyce geograficznej
+- o zwierzętach [Kamil]
 - z wiedzy o filmach [Włodek]
 - z datami historycznymi [Konrad] (20)
 - wiedzy o grach komputerowych [Mikołaj]
